@@ -1,0 +1,14 @@
+{
+  "menu": [
+    {
+      "id": "tools",
+      "submenu": [
+        {
+          "label": "Set Pixels Ratio",
+          "id": "tools.SetPixelsRatio",
+					"command":"SetPixelsRatio:setRatio"
+				}
+			]
+    }
+  ]
+}

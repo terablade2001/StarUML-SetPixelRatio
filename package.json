@@ -1,8 +1,8 @@
 {
   "name": "terablade2001.setpixelsratio",
   "title": "Set Pixels Ratio",
-  "description": "Enabling users to set his own device pixels ratio for exporting diagrams in different resolutions.",
-  "homepage": "https://github.com/terablade2001/StarUML-SetPixelRatio",
+  "description": "Enabling users to set their own device pixels ratio for exporting diagrams in different resolutions.",
+  "homepage": "https://github.com/terablade2001/StarUML-SetPixelsRatio",
   "version": "1.0.0",
   "keywords": ["Export","DPI","Resolution","Diagram"],
   "author": {
